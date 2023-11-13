@@ -22,7 +22,7 @@
     methods: {
       handleLoginSuccess() {
         // Handle actions after successful login
-        this.$router.push("/dashboard");
+        this.$router.push("/Login");
       },
     },
   };
