@@ -22,7 +22,7 @@ export default defineComponent({
 
   components: {
     HelloWorld,
-    Login,
+    LoginComponent,
   },
 });
 </script>
